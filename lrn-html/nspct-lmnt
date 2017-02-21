@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+    </head>
+    <body>
+      <p>
+        <a href="index.html">Back</a>
+        <a href="blank.html">Blank page</a>
+      </p>
+      <p>The is a way to easily edit any site called inspect element<br>
+      You can get to it by right clicking and then click inspect element or just inspect</p>
+      <p>Somewhere on your screen a box will pop up. In that box there will be programming.<br>
+      Right-click the first line and press edit html and then you can edit the page with the code you learned<br>
+      I made a blank page so you dont have to bother deleting anything so you could open that and program on it.</p>
+    </body>
+  </html>
